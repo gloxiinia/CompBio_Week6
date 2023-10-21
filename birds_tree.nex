@@ -1,0 +1,8 @@
+#NEXUS
+Begin Taxa;
+ Dimensions NTax=12;
+ TaxLabels AfricanOstrich Chicken MourningDove EmperorPenguin White-belliedHeron White-tailedEagle CommonRaven CommonCanary PeregrineFalcon ScarletMacaw Salmon-crestedCockatoo SnowyOwl;
+End;
+Begin Trees;
+ Tree tree1=((AfricanOstrich:0.09484,Chicken:0.12496)Inner3:0.00458,(((MourningDove:0.07460,EmperorPenguin:0.07684)Inner6:0.00317,(White-belliedHeron:0.08715,(White-tailedEagle:0.08902,(CommonRaven:0.04649,CommonCanary:0.04013)Inner1:0.06419)Inner5:0.00360)Inner7:0.00184)Inner8:0.00359,(PeregrineFalcon:0.10181,(ScarletMacaw:0.08548,Salmon-crestedCockatoo:0.09013)Inner2:0.03166)Inner4:0.00488)Inner9:0.00090,SnowyOwl:0.10444)Inner10:0.00000;
+End;
